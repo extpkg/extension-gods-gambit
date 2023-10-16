@@ -1,8 +1,8 @@
 {
   "manifest_version": "ext-v1",
-  "name": "Extension Name",
-  "short_name": "Extension Name",
-  "description": "Extension description",
+  "name": "Gods Gambit",
+  "short_name": "Gods Gambit",
+  "description": "Divine duels, strategic gambits: fight gods in epic battles!",
   "version": "1.0.0",
   "author": "EXT, Inc.",
   "icons": {
@@ -14,7 +14,7 @@
   "modules": {
     "runtime": {
       "permissions": [],
-      "module_version": "1.2.1"
+      "module_version": "1.2.2"
     },
     "tabs": {
       "permissions": [],
@@ -22,7 +22,7 @@
     },
     "windows": {
       "permissions": [],
-      "module_version": "1.1.0"
+      "module_version": "1.2.1"
     },
     "webviews": {
       "permissions": [],
@@ -31,7 +31,7 @@
     "websessions": {
       "permissions": [],
       "optional_permissions": ["create.persistent"],
-      "module_version": "1.0.1"
+      "module_version": "1.0.2"
     }
   }
 }

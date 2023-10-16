@@ -1,6 +1,6 @@
-# Extension name
+# Gods Gambit
 
-Extension description
+Divine duels, strategic gambits: fight gods in epic battles!
 
 ## Build
 
