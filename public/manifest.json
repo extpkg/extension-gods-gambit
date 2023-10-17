@@ -3,7 +3,7 @@
   "name": "Gods Gambit",
   "short_name": "Gods Gambit",
   "description": "Divine duels, strategic gambits: fight gods in epic battles!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "EXT, Inc.",
   "icons": {
     "128": "./assets/128.png",
@@ -14,24 +14,24 @@
   "modules": {
     "runtime": {
       "permissions": [],
-      "module_version": "1.2.2"
+      "module_version": ""
     },
     "tabs": {
       "permissions": [],
-      "module_version": "1.1.0"
+      "module_version": ""
     },
     "windows": {
       "permissions": [],
-      "module_version": "1.2.1"
+      "module_version": ""
     },
     "webviews": {
       "permissions": [],
-      "module_version": "1.0.2"
+      "module_version": ""
     },
     "websessions": {
       "permissions": [],
       "optional_permissions": ["create.persistent"],
-      "module_version": "1.0.2"
+      "module_version": ""
     }
   }
 }
