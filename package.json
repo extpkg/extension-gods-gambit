@@ -25,6 +25,7 @@
     "@chialab/esbuild-plugin-meta-url": "^0.17.7",
     "@commitlint/cli": "^17.8.0",
     "@commitlint/config-conventional": "^17.8.0",
+    "@extpkg/packager": "^1.0.2",
     "@extpkg/types-console": "^1.0.1",
     "@extpkg/types-runtime": "^1.2.2",
     "@extpkg/types-tabs": "^1.1.0",
