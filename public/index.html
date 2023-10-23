@@ -123,6 +123,11 @@
     <!-- Godot stuff end -->
 
     <script type="module">
+      window.quit = async () => {
+        await ext.runtime.sendMessage("quit");
+      };
+    </script>
+    <script type="module">
       const platformInfo = await ext.runtime.getPlatformInfo();
       const webview = await ext.webviews.getCurrent();
       const window = await ext.webviews.getAttachedWindow(webview.id);
