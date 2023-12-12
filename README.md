@@ -13,3 +13,6 @@ Divine duels, strategic gambits: fight gods in epic battles!
 
 Run `npm run dev` to watch `src` and `public` directories and rebuild the
 project on changes
+
+## Source
+https://github.com/bitwise-aiden/gwj42
